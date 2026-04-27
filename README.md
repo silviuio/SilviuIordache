@@ -22,6 +22,7 @@ Frontend dev who loves building things — from web apps to video games. Also gu
 
 **Web**
 
+- 🚎 [Navetist.ro](https://navetist.ro) - Bucharest/Romania public transport fares centralizer + calculators for optimal subscriptions per user.
 - 🅰 [Word Finder](https://github.com/SilviuIordache/react-word-finder) - A React Vite game where you try to find all the hidden words. Built with Claude Code
 - 🪙 [RTK Redux Crypto Tracker](https://github.com/SilviuIordache/rtk-crypto-tracker) - A crypto tracking app showcasing RTK Redux & Query state sharing features
 - 🎬 [Next.js Rendering Modes](https://github.com/SilviuIordache/nextjs-rendering-modes) - Movie app showcasing SSG, ISR, SSR, and CSR in a single Next.js project
